@@ -25,20 +25,20 @@ Welcome to the **String Playground**! 🎢 A Python GUI where your strings come 
 - Split strings into chunks or glue them back together.  
 
 ---
-### Outcome
+# Outcome
 Created an interactive GUI application using Python's Tkinter library for performing various string operations.
-## The application includes the following key features:
-# String Manipulations:
+# The application includes the following key features:
+### String Manipulations:
  Convert strings to uppercase and lowercase.
  Reverse a string.
  Check if the string is a palindrome.
-# Substring Operations:
+### Substring Operations:
  Find substrings and their positions.
  Replace substrings with user-defined replacements.
-# Advanced Operations:
+### Advanced Operations:
  Split a string using a custom delimiter.
  Join multiple strings with a user-defined joiner.
-# Other Utilities:
+### Other Utilities:
 Remove whitespaces from the string.
 Check if the string starts or ends with specified substrings.
 Intuitive dialog boxes make the operations user-friendly and easy to navigate.
