@@ -4,17 +4,18 @@
 
 ```mermaid
 graph TD
-    A[Enter String] --> B[Select an Operation]
-    B --> C[Convert to Uppercase]
-    B --> D[Convert to Lowercase]
-    B --> E[Reverse String]
-    B --> F[Check Palindrome]
-    B --> G[Find Substring]
-    B --> H[Replace Substring]
-    B --> I[Split String]
-    B --> J[Join Strings]
-    B --> K[Remove Whitespaces]
-    B --> L[Check Start/End]
-    B --> M[Exit Program]
-    M --> N[Goodbye!]
+    Start([Start Program]) --> Input[String Input]
+    Input --> Menu{Select Operation}
+    Menu --> |1. Convert to Uppercase| Uppercase[Uppercase]
+    Menu --> |2. Convert to Lowercase| Lowercase[Lowercase]
+    Menu --> |3. Reverse String| Reverse[Reverse String]
+    Menu --> |4. Check Palindrome| Palindrome[Check Palindrome]
+    Menu --> |5. Find Substring| Find[Find Substring]
+    Menu --> |6. Replace Substring| Replace[Replace Substring]
+    Menu --> |7. Split String| Split[Split String]
+    Menu --> |8. Join Strings| Join[Join Strings]
+    Menu --> |9. Remove Whitespaces| Remove[Remove Whitespaces]
+    Menu --> |10. Check Start/End| Check[Check Start/End]
+    Menu --> |11. Exit| Exit[Exit Program]
+    Exit --> End([End Program])
 
