@@ -1,4 +1,4 @@
-# String-using-all-methods
+# String-Using-All-Methods
 ## Team 1 Creating String Data Structure Using all Methods
 ## Objective
 The project aims to develop a detailed and versatile implementation of a string data structure in Python, featuring all common and essential string manipulation methods. It will help users understand the internal workings of string operations and provide a foundation for more complex text-based applications.
@@ -25,9 +25,9 @@ Welcome to the **String Playground**! 🎢 A Python GUI where your strings come 
 - Split strings into chunks or glue them back together.  
 
 ---
-# Outcome
+## Outcome
 Created an interactive GUI application using Python's Tkinter library for performing various string operations.
-# The application includes the following key features:
+## The application includes the following key features:
 ### String Manipulations:
  Convert strings to uppercase and lowercase.
  Reverse a string.
