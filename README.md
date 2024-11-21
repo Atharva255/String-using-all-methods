@@ -38,13 +38,6 @@ Created an interactive GUI application using Python's Tkinter library for perfor
 ### Advanced Operations:
  Split a string using a custom delimiter.
  Join multiple strings with a user-defined joiner.
-### Other Utilities:
-Remove whitespaces from the string.
-Check if the string starts or ends with specified substrings.
-Intuitive dialog boxes make the operations user-friendly and easy to navigate.
-Enhanced error handling ensures that users are guided when invalid inputs or empty strings are detected.
-Successfully demonstrated Python’s ability to handle both string data structures and GUI development seamlessly.
-Provides a solid foundation for further enhancement, such as saving results
 
 ## 🧩 How It Works (Flowchart Style!)
 Let’s visualize how this string playground operates:
